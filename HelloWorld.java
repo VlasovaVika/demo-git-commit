@@ -3,5 +3,6 @@ public class HelloWorld{
 		User user = new User();
 		user.name = "Kate";
 		user.password = "jojopk90";
+		String str = "";
 	}
 }
